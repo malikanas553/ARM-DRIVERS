@@ -49,7 +49,7 @@ void NVIC_SetPriorityException(NVIC_ExceptionType Exception_Num,
 ```
 # 🚀 Quick Start Guide (SysTick + NVIC Drivers)
 
-This quick start guide shows you how to **integrate and use** the SysTick and NVIC drivers in your embedded project (ARM Cortex-M4 / TM4C @ 16 MHz). :contentReference[oaicite:0]{index=0}
+This quick start guide shows you how to **integrate and use** the SysTick and NVIC drivers in your embedded project (ARM Cortex-M4 / TM4C @ 16 MHz).
 
 ---
 
